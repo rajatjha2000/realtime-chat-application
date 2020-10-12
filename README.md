@@ -10,3 +10,5 @@ INSTALL:-
 
 First run the file on Terminal:----> npm run dev
 If it says "Server running on port 3000" then go to your browser and type----> http://localhost:3000
+
+![alt text](https://github.com/rajatjha2000/realtime-chat-application/blob/master/Chatcord image1.png?raw=true)
