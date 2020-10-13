@@ -12,3 +12,4 @@ First run the file on Terminal:----> npm run dev
 If it says "Server running on port 3000" then go to your browser and type----> http://localhost:3000
 
 
+![](Snapshots%20of%20Applications/Chatcord%20image1.png)
