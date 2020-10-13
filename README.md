@@ -13,3 +13,6 @@ If it says "Server running on port 3000" then go to your browser and type----> h
 
 
 ![](Snapshots%20of%20Applications/Chatcord%20image1.png)
+![](Snapshots%20of%20Applications/Chatcord%20image2.png)
+![](Snapshots%20of%20Applications/Chatcord%20image3.png)
+![](Snapshots%20of%20Applications/Chatcord%20image4.png)
